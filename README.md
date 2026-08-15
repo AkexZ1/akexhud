@@ -20,7 +20,7 @@
 > I dunno what else to add
 > Just try it to see what it has
 
-  ![Main2](Screenshot2.jpg)
+  ![Main2](Screenshot 2.jpg)
 
 ## Installation
 
