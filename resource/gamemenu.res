@@ -74,16 +74,16 @@
 	"HUDDefaultModeButton"
 	{
 		"label"		""
-		"command"	"engine cl_hud_minmode 0"
+		"command"	" "
 		"subimage"	"replay/thumbnails/glyphs/glyph_hudmode_default"
-		"tooltip"	"HUD: Default mode"
+		"tooltip"	"Placeholder button"
 	}
 	"HUDCenteredModeButton"
 	{
 		"label"		""
-		"command"	"engine cl_hud_minmode 1"
-		"subimage"	"replay/thumbnails/glyphs/glyph_hudmode_centered"
-		"tooltip"	"HUD: Centered mode"
+		"command"	"url https://github.com/AkexZ1/akexhud"
+		"subimage"	"replay/thumbnails/glyphs/glyph_github"
+		"tooltip"	"AkexHUD"
 	}
 	"ReloadHUDButton"
 	{
@@ -97,7 +97,7 @@
 		"label"		""
 		"command"	" "
 		"subimage"	"replay/thumbnails/glyphs/glyph_toonhud"
-		"tooltip"	"AkexHUD Beta"
+		"tooltip"	"AkexHUD v.Beta"
 	}
 
 }
