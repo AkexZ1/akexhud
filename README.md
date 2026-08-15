@@ -29,6 +29,8 @@
 
   ![Main2](Screenshot2.jpg)
 
+  ![Main2](Screenshot3.jpg)
+
 ## Installation
 
 Just download the repo and add it in tf/custom
