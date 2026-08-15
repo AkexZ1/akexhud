@@ -33,9 +33,9 @@
 
 ## Installation
 
-Just download the repo and add it in tf/custom
+Just download the repo and add it on tf/custom
 
-This hud needs 2 Fonts to be installed in your system to properly work
+This hud needs 2 Fonts to be installed on your system to properly work
 
   [Gamefont (Damage Numbers)](https://files.catbox.moe/cxknym.ttf)
   
