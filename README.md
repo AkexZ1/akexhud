@@ -12,12 +12,19 @@
 ## HUD
 
 > It comes with a custom menu music (yes, just one song placed a lot of times, but you can change it)
+
 > Custom images for different menus
+
 > Fully edited main HUD
+
 > Gameplay mascot (Love it)
+
 > Weird shit
+
 > Example text
+
 > I dunno what else to add
+
 > Just try it to see what it has
 
   ![Main2](Screenshot2.jpg)
