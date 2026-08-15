@@ -1,0 +1,266 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/yakui/yakui"
+	"$translucent"		"1"
+	"$vertexcolor"		"1"
+	"$vertexalpha"		"1"
+	"$ignorez"			"1"
+	"$no_fullbright"	"1"
+	"%keywords"			"tf"
+	
+	"$speed"			"0.0"
+	"$fastspeed"		"649"
+	"$movestate"		"0.0"
+	"$faststate"		"0.0"
+	
+	"$glowcolor"	"[1 1 1]"
+	"$green"			"1.0"
+	"$critstate"		"0.0"
+	
+	"$invulnlevel"	"0.0"
+	"$invulnstate"	"0.0"
+	
+	//animation data
+	//format: [<start frame id> | <end frame id +1> | <animation framerate>]
+	"$idlerange"		"[21 21 0]"
+	"$moverange"		"[21 21 0]"
+	"$fastrange"		"[20 21 0]"
+	"$critrange"		"[21 22 0]"
+	"$invulnrange"	"[22 23 0]"
+	
+	"$currentanimation"		"[0 0 0]"
+	"$currentanimationrate"	"1.0"
+	
+	//index of animations
+	"$state"			"0.0"
+	
+	//ever-increasing value
+	"$animation"		"0"
+	//which animation is currently playing
+	"$animationstate"	"0"
+	
+	"$zero"	"0.0"
+	"$half"	"0.5"
+	"$one"	"1.0"
+	"$two"	"2.0"
+	"$three"	"3.0"
+	"$four"	"4.0"
+	
+	"Proxies"
+	{
+		//Get movement speed
+		"PlayerSpeed"
+		{
+			"scale"		"1"
+			"resultVar"	"$speed"
+		}
+		//Get crit glow colour
+		//returns a hard-coded vector based on the crit glow the user's weapon should have
+		//it's too complicated to get into here
+		"ModelGlowColor"
+		{
+			"resultVar"	"$glowcolor"
+		}
+		//Get Ubercharge status
+		//returns a number based on if the user is Ubercharged or not
+		//0=no, 1=yes
+		// "InvulnLevel"
+		// {
+			// "resultVar" "$invulnlevel"
+		// }
+		//Isolate out the green value of the crit glow
+		//every crit glow colour has a green value higher than one, so that can be used to detect if it's there or not
+		//you can also combine this with either the red or blue value to get which colour specifically but again, too complicated to get into here
+		// "Clamp"
+		// {
+			// "min"		"$glowcolor[1]"
+			// "max"		"$glowcolor[1]"
+			// "srcVar1"	"$zero"
+			// "resultVar"	"$green"
+		// }
+		//Detect movement speed
+		//if player is moving at all, store 1 in the state variable
+		//if not, set state to 0
+		"LessOrEqual"
+		{
+			"srcVar1"		"$speed"
+			"srcVar2"		"$zero"
+			"lessEqualVar"	"$zero"
+			"greaterVar"		"$one"
+			"resultVar"		"$state"
+		}
+		//Detect movement speed again
+		//if player is falling faster than 649 hu/s, store 2 in the state variable
+		//if not, then leave the state variable as-is
+		"LessOrEqual"
+		{
+			"srcVar1"		"$speed"
+			"srcVar2"		"$fastspeed"
+			"lessEqualVar"	"$state"
+			"greaterVar"		"$two"
+			"resultVar"		"$state"
+		}
+		//Detect green value
+		//if green is higher than one, then store 3 in the state variable
+		//if not, then leave the state variable as-is
+		// "LessOrEqual"
+		// {
+			// "srcVar1"		"$green"
+			// "srcVar2"		"$one"
+			// "lessEqualVar"	"$state"
+			// "greaterVar"		"$three"
+			// "resultVar"		"$state"
+		// }
+		//Detect Ubercharge status
+		//if player is Ubercharged, then store 4 in the state variable
+		//if not, then leave the state variable as-is
+		// "LessOrEqual"
+		// {
+			// "srcVar1"		"$invulnlevel"
+			// "srcVar2"		"$half"
+			// "lessEqualVar"	"$state"
+			// "greaterVar"		"$four"
+			// "resultVar"		"$state"
+		// }
+		//Set animation state based on state
+		//if state is anything other than 0, set that to the current animation
+		"SelectFirstIfNonZero"
+		{
+			"srcVar1"		"$state"
+			"srcVar2"		"$zero"
+			"resultVar"		"$animationstate"
+		}
+		//copy values into checks
+		"Equals"
+		{
+			"srcVar1"	"$animationstate"
+			"resultVar"	"$movestate"
+		}
+		"Equals"
+		{
+			"srcVar1"	"$animationstate"
+			"resultVar"	"$faststate"
+		}
+		"Equals"
+		{
+			"srcVar1"	"$animationstate"
+			"resultVar"	"$critstate"
+		}
+		"Equals"
+		{
+			"srcVar1"	"$animationstate"
+			"resultVar"	"$invulnstate"
+		}
+		//standard material value equals check
+		//subtract input from expected value, get absolute value and compare against 0
+		//if the number is greater than expected, resulting value is greater than 0 and fails the check
+		//if the number is less than expected, absolute value proxy makes resulting value positive, resulting value is greater than 0 and fails the check
+		//y'know, totally logical way to check the value of something
+		"Subtract"
+		{
+			"srcVar1"	"$movestate"
+			"srcVar2"	"$one"
+			"resultVar"	"$movestate"
+		}
+		"Subtract"
+		{
+			"srcVar1"	"$faststate"
+			"srcVar2"	"$two"
+			"resultVar"	"$faststate"
+		}
+		"Subtract"
+		{
+			"srcVar1"	"$critstate"
+			"srcVar2"	"$three"
+			"resultVar"	"$critstate"
+		}
+		"Subtract"
+		{
+			"srcVar1"	"$invulnstate"
+			"srcVar2"	"$four"
+			"resultVar"	"$invulnstate"
+		}
+		"Abs"
+		{
+			"srcVar1"	"$movestate"
+			"resultVar"	"$movestate"
+		}
+		"Abs"
+		{
+			"srcVar1"	"$faststate"
+			"resultVar"	"$faststate"
+		}
+		"Abs"
+		{
+			"srcVar1"	"$critstate"
+			"resultVar"	"$critstate"
+		}
+		"Abs"
+		{
+			"srcVar1"	"$invulnstate"
+			"resultVar"	"$invulnstate"
+		}
+		//if the player is moving, set the current animation range to the moving one
+		//if not, set to default animation range
+		"LessOrEqual"
+		{
+			"srcVar1"		"$movestate"
+			"srcVar2"		"$zero"
+			"lessEqualVar"	"$moverange"
+			"greaterVar"		"$idlerange"
+			"resultVar"		"$currentanimation"
+		}
+		//if the player is moving faster than 599 hu/s, set the current animation range to the fast one
+		//if not, leave the animation in it's current state
+		"LessOrEqual"
+		{
+			"srcVar1"		"$faststate"
+			"srcVar2"		"$zero"
+			"lessEqualVar"	"$fastrange"
+			"greaterVar"		"$currentanimation"
+			"resultVar"		"$currentanimation"
+		}
+		//if the player is crit boosted, set the current animation range to the crit one
+		//if not, leave the animation in it's current state
+		"LessOrEqual"
+		{
+			"srcVar1"		"$critstate"
+			"srcVar2"		"$zero"
+			"lessEqualVar"	"$critrange"
+			"greaterVar"		"$currentanimation"
+			"resultVar"		"$currentanimation"
+		}
+		//if the player is ubercharged, set the current animation to the crit one
+		//if not, leave the animation in it's current state
+		"LessOrEqual"
+		{
+			"srcVar1"		"$invulnstate"
+			"srcVar2"		"$zero"
+			"lessEqualVar"	"$invulnrange"
+			"greaterVar"		"$currentanimation"
+			"resultVar"		"$currentanimation"
+		}
+		
+		//put an ever-increasing value into animation
+		"LinearRamp"
+		{
+			"rate"			"$currentanimation[2]"
+			"initialValue"	"0"
+			"resultVar"		"$animation"
+		}
+		//wrap the above value to the bounds of the current animation frames
+		"WrapMinMax"
+		{
+			"srcVar1"	"$animation"
+			"minVal"		"$currentanimation[0]"
+			"maxVal"		"$currentanimation[1]"
+			"resultVar"	"$animation"
+		}
+		//set the current frame to the value currently in animation
+		"Equals"
+		{
+			"srcVar1"	"$animation"
+			"resultVar"	"$frame"
+		}
+	}
+}

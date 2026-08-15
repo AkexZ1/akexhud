@@ -1,0 +1,14 @@
+event DamagedPlayer
+{
+	RunEvent	YakuiDamage	0
+}
+
+//called by DamagedPlayer event
+event YakuiDamage
+{
+	Animate	yakui 		Alpha	"0"		Linear 0 0.001
+	Animate	yakuidamage 	Alpha	"255"	Linear 0 0.001
+	
+	Animate	yakui 		Alpha	"255"	Linear 2 0.001
+	Animate	yakuidamage 	Alpha	"0"		Linear 2 0.001
+}

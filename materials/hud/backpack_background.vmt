@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+    "$basetexture" "hud/backpack_background"
+    "$translucent" "1"
+    "$vertexcolor" "1"
+    "$vertexalpha" "1"
+
+    "Proxies"
+    {
+        "AnimatedTexture"
+        {
+            "animatedtexturevar" "$basetexture"
+            "animatedtextureframenumvar" "$frame"
+            "animatedtextureframerate" "15"
+        }
+    }
+}
