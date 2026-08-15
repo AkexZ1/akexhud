@@ -8,7 +8,7 @@
  
  (Is still in BETA)
 
-  ![Main](Screenshot.jpg)
+  ![Main](Screenshots/Screenshot.jpg)
 
 ## DO NOT USE MINIMAL HUD, IT BREAKS MOST THINGS SINCE IS NOT IMPLEMENTED ON THIS HUD
 
@@ -30,9 +30,9 @@
 
 > Just try it to see what it has
 
-  ![Main2](Screenshot2.jpg)
+  ![Main2](Screenshots/Screenshot2.jpg)
 
-  ![Main2](Screenshot3.jpg)
+  ![Main3](Screenshots/Screenshot3.jpg)
 
 ## Installation
 
