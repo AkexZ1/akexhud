@@ -10,6 +10,8 @@
 
   ![Main](Screenshot.jpg)
 
+DO NOT USE MINIMAL HUD, IT BREAKS MOST THINGS SINCE IS NOT PROPERLY IMPLEMENTED (and I forgor to remove the buttom)
+
 ## HUD
 
 > It comes with a custom menu music (yes, just one song placed a lot of times, but you can change it)
