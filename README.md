@@ -2,7 +2,7 @@
 
 # AKEX HUD
 
- A weird and purple maidcore HUD made for me, but that am making public.
+ A weird and purple maidcore HUD that I made for me, but am making public.
 
  This HUD is a forked and heavily edited version of ToonHUD; I liked the base, but I didn't like the actual basic HUD.
  
