@@ -5,6 +5,7 @@
  A weird and purple maidcore HUD made for me, but that am making public.
 
  This HUD is a forked and heavily edited version of ToonHUD; I liked the base, but I didn't like the actual basic HUD.
+ 
  (Is still in BETA)
 
   ![Main](Screenshot.jpg)
@@ -44,6 +45,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
 ## ADDONS
 
 Yes! this HUD has a few ADDONS that I made for it
+
 Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   [Paper Mario Crits](https://drive.google.com/file/d/14JCULTlA0ANvjRzbESd7e5aNIVucFZ3d/view?usp=sharing)
