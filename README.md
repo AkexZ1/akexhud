@@ -24,17 +24,15 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
 > Custom images for different menus
 
-> Fully edited main HUD
+> Heavily edited UI/HUD
+
+> Stats removed (Yes. stats are no more, I mostly remove it for the loading screen) 
+
+> Centered meters (below crosshair) 
 
 > Gameplay mascot (Love it, based of Niko reactions)
 
-> Weird shit
-
-> Example text
-
 > I dunno what else to add
-
-> Just try it to see what it has
 
   ![Main4](Screenshots/Screenshot4.jpg)
 
