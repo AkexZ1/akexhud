@@ -20,7 +20,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
 ## HUD
 
-> It comes with a custom menu music (yes, just one song placed a lot of times, but you can change it)
+> It comes with a custom menu music (yes, just one song placed a lot of times, but you can remove it)
 
 > Custom background for different menus
 
