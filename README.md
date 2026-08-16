@@ -60,7 +60,8 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
 
-  [Class Select Music](https://drive.google.com/file/d/1Q1iG5Uz1_wyuMgjepPfqOlFql8g55Gkd/view?usp=sharing) (Mutes also other sounds in the same menu, and was taken from gamebanana)
+     ![Showcase](https://files.catbox.moe/e6tc4c.png)
+
 
   ## Art
 
