@@ -96,7 +96,7 @@
 	{
 		"label"		""
 		"command"	" "
-		"subimage"	"replay/thumbnails/glyphs/glyph_toonhud"
+		"subimage"	"replay/thumbnails/glyphs/glyph_akexhud"
 		"tooltip"	"AkexHUD v.Beta"
 	}
 
