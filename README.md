@@ -60,7 +60,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
 
-     ![Showcase](https://files.catbox.moe/e6tc4c.png)
+   ![Main](https://files.catbox.moe/e6tc4c.png)
 
 
   ## Art
