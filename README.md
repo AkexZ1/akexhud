@@ -26,7 +26,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
 > Fully edited main HUD
 
-> Gameplay mascot (Love it)
+> Gameplay mascot (Love it, based of Niko reactions)
 
 > Weird shit
 
@@ -56,4 +56,16 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   [Class Select Music (Mutes also other sounds in the same menu, and was taken from gamebanana)](https://drive.google.com/file/d/1Q1iG5Uz1_wyuMgjepPfqOlFql8g55Gkd/view?usp=sharing)
 
+  ## Art
 
+  The original artwork of the gameplay mascot was made by [Kimispice](https://x.com/kimispice/status/2021289963237568746), had to draw (yes, draw) more sprites for it to work, but credits to'em for creating the original one
+
+  The menu background was made by [An_Yb](https://www.pixiv.net/en/artworks/142351663)
+
+  The Backpack/Loadout background are edited versions from [Pelcman's artwork](https://pelcman.honifuwa.com/post/613474535371669504/20200324-its-time-to-take-your-happiness-back)
+
+  The loading screen screen, is literally just a screenshot taken from the video of the 2025 [Chikoi Album](https://www.youtube.com/watch?v=KH89fk-0qks)
+
+  The chibi Chikoi health icon was made by [Hinemosu Notari](https://danbooru.donmai.us/posts/394495?q=chikoi_%28nijiura_maids%29+)
+
+   ![Main](https://files.catbox.moe/3le546.jpg)
