@@ -63,6 +63,16 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
    ![Main](https://files.catbox.moe/e6tc4c.png)
 
 
+## Recommended Mods
+
+[Vaporwave Ordinary Days](https://gamebanana.com/sounds/47984) (Feels good)
+
+[Sewerslvt songs](https://gamebanana.com/sounds/73930) or add "snd_restart" on your autoexec (if you really feel like the included music doesn't fit)
+
+[Persona 5 UI sounds](https://gamebanana.com/sounds/71875) (I feel like they really fit in)
+
+[Minigun Drum Bullets](https://gamebanana.com/sounds/66626) (Not really a recommendation, I just think it is funny to include it with this HUD)
+
   ## Art
 
   The original artwork of the gameplay mascot was made by [Kimispice](https://x.com/kimispice/status/2021289963237568746), had to draw (yes, draw) more sprites for it to work, but credits to'em for creating the original one
