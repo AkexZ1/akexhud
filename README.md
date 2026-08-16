@@ -50,10 +50,10 @@ Yes! this HUD has a few ADDONS that I made for it
 
 Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
-  [Paper Mario Crits](https://drive.google.com/file/d/14JCULTlA0ANvjRzbESd7e5aNIVucFZ3d/view?usp=sharing)
+  [Paper Mario Crits (Someone made this in gamebanana already, but added more things to it, like mini crit and updated the crit particle)](https://drive.google.com/file/d/14JCULTlA0ANvjRzbESd7e5aNIVucFZ3d/view?usp=sharing)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
 
-  [Class Select Music (Mutes also other sounds in the same menu)](https://drive.google.com/file/d/1Q1iG5Uz1_wyuMgjepPfqOlFql8g55Gkd/view?usp=sharing)
+  [Class Select Music (Mutes also other sounds in the same menu, and was taken from gamebanana)](https://drive.google.com/file/d/1Q1iG5Uz1_wyuMgjepPfqOlFql8g55Gkd/view?usp=sharing)
 
 
