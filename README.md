@@ -22,7 +22,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
 > It comes with a custom menu music (yes, just one song placed a lot of times, but you can change it)
 
-> Custom images for different menus
+> Custom background for different menus
 
 > Heavily edited UI/HUD
 
