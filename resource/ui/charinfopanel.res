@@ -86,11 +86,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Sheet"
-		"tabxindent"	"10"
-		"tabxdelta"		"10"
-		"tabwidth"		"150"
-		"tabheight"		"15"
-		"yoffset"		"14"
+		"tabxindent"	"0"
+		"tabxdelta"		"0"
+		"tabwidth"		"0"
+		"tabheight"		"0"
+		"yoffset"		"29"
 		"transition_time" 	"0"
 		"paintbackground" "0"
 		"bgcolor_override" "G_TransparentMenuBG"
@@ -136,6 +136,8 @@
 			"paintbackground"	"0"
 			"activeborder_override"	"HighlightBg"
 			"normalborder_override" "NoBorder"
+			"visible"		"0"
+			"enabled"		"0"
 		}
 	}
 	
