@@ -6,6 +6,8 @@ This hud needs 2 Fonts to be installed on your system to properly work
   
   [MingLiU-ExtB (Whole UI)](https://files.catbox.moe/is6y9d.ttf)
 
+## DO NOT USE MINIMAL HUD, IT BREAKS MOST THINGS SINCE IS NOT IMPLEMENTED ON THIS HUD
+
 # AKEX HUD
 
  A weird and purple maidcore HUD that I made for me, but am making public.
@@ -15,8 +17,6 @@ This hud needs 2 Fonts to be installed on your system to properly work
  (Is still in BETA)
 
   ![Main](Screenshots/Screenshot.jpg)
-
-## DO NOT USE MINIMAL HUD, IT BREAKS MOST THINGS SINCE IS NOT IMPLEMENTED ON THIS HUD
 
 ## HUD
 
