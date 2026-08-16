@@ -6,7 +6,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
   
   [MingLiU-ExtB (Whole UI)](https://files.catbox.moe/is6y9d.ttf)
 
-## DO NOT USE MINIMAL HUD, IT BREAKS MOST THINGS
+## DO NOT USE MINIMAL HUD, IT BREAKS MOST CUSTOM THINGS
 
 # AKEX HUD
 
@@ -22,19 +22,17 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
 > It comes with a custom menu music (yes, just one song placed a lot of times, but you can change it)
 
-> Custom images for different menus
+> Custom background for different menus
 
-> Fully edited main HUD
+> Heavily edited UI/HUD
+
+> Stats removed (Yes. stats are no more, I mostly remove it for the loading screen) 
+
+> Centered meters (below crosshair) 
 
 > Gameplay mascot (Love it, based of Niko reactions)
 
-> Weird shit
-
-> Example text
-
 > I dunno what else to add
-
-> Just try it to see what it has
 
   ![Main4](Screenshots/Screenshot4.jpg)
 
@@ -62,7 +60,8 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
 
-  [Class Select Music](https://drive.google.com/file/d/1Q1iG5Uz1_wyuMgjepPfqOlFql8g55Gkd/view?usp=sharing) (Mutes also other sounds in the same menu, and was taken from gamebanana)
+   ![Main](https://files.catbox.moe/e6tc4c.png)
+
 
   ## Art
 
