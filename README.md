@@ -30,7 +30,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
 > Centered meters (below crosshair) 
 
-> Gameplay mascot (Love it, based of Niko reactions)
+> Gameplay mascot (Love it, based of [Niko reactions](https://gamebanana.com/mods/650785))
 
 > I dunno what else to add
 
