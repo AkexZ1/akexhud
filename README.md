@@ -46,7 +46,7 @@ This HUD was made for 16:9, in 4:3 some stuff might break: I haven't checked res
 
 Some stuff are still placeholder since making a HUD takes time, but eh, is not like I'm not gonna leave them like that... right?
 
-There was a very old maidcore HUD that I saw on gamebanana time ago, the HUD had a lot od problems, but I like it the idea, so yeah, the fonts were taken from there
+There was a very old maidcore HUD that I saw on gamebanana time ago, the HUD had a lot of problems, but I like it the idea, so yeah, the fonts were taken from there
 
 Scout can be really annoying to play sometimes depending on your lodaout, since bars are centered, you might see a lot of them, so keep that in mind
 
@@ -81,7 +81,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   The Backpack/Loadout background are edited versions from [Pelcman's artwork](https://pelcman.honifuwa.com/post/613474535371669504/20200324-its-time-to-take-your-happiness-back)
 
-  The loading screen screen, is literally just a screenshot taken from the video of the 2025 [Chikoi Album](https://www.youtube.com/watch?v=KH89fk-0qks)
+  The loading screen, is literally just a screenshot taken from the video of the 2025 [Chikoi Album](https://www.youtube.com/watch?v=KH89fk-0qks)
 
   The chibi Chikoi health icon was made by [Hinemosu Notari](https://danbooru.donmai.us/posts/394495?q=chikoi_%28nijiura_maids%29+)
 
