@@ -6,7 +6,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
   
   [MingLiU-ExtB (Whole UI)](https://files.catbox.moe/is6y9d.ttf)
 
-## DO NOT USE MINIMAL HUD, IT BREAKS MOST THINGS SINCE IS NOT IMPLEMENTED ON THIS HUD
+## DO NOT USE MINIMAL HUD, IT BREAKS MOST THINGS
 
 # AKEX HUD
 
@@ -42,9 +42,15 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
   ![Main3](Screenshots/Screenshot3.jpg)
 
-## Installation
+## Stuff about the HUD
 
-Just download the repo and add it on tf/custom
+This HUD was made for 16:9, in 4:3 some stuff might break: I haven't checked resolutions above 1080p so it might break, I dunno
+
+Some stuff are still placeholder since making a HUD takes time, but eh, is not like I'm not gonna leave them like that... right?
+
+There was a very old maidcore HUD that I saw on gamebanana time ago, the HUD had a lot od problems, but I like it the idea, so yeah, the fonts were taken from there
+
+Scout can be really annoying to play sometimes depending on your lodaout, since bars are centered, you might see a lot of them, so keep that in mind
 
 ## ADDONS
 
@@ -52,11 +58,11 @@ Yes! this HUD has a few ADDONS that I made for it
 
 Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
-  [Paper Mario Crits (Someone made this in gamebanana already, but added more things to it, like mini crit and updated the crit particle)](https://drive.google.com/file/d/14JCULTlA0ANvjRzbESd7e5aNIVucFZ3d/view?usp=sharing)
+  [Paper Mario Crits](https://drive.google.com/file/d/14JCULTlA0ANvjRzbESd7e5aNIVucFZ3d/view?usp=sharing) (Someone made this in gamebanana already, but I added more things to it, like mini crit and updated the crit particle)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
 
-  [Class Select Music (Mutes also other sounds in the same menu, and was taken from gamebanana)](https://drive.google.com/file/d/1Q1iG5Uz1_wyuMgjepPfqOlFql8g55Gkd/view?usp=sharing)
+  [Class Select Music](https://drive.google.com/file/d/1Q1iG5Uz1_wyuMgjepPfqOlFql8g55Gkd/view?usp=sharing) (Mutes also other sounds in the same menu, and was taken from gamebanana)
 
   ## Art
 
