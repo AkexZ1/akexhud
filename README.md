@@ -63,7 +63,8 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
   [Paper Mario Crits](https://drive.google.com/file/d/14JCULTlA0ANvjRzbESd7e5aNIVucFZ3d/view?usp=sharing) (Someone made this in gamebanana already, but I added more things to it, like mini crit and updated the crit particle)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
-   ![Main](https://files.catbox.moe/e6tc4c.png)
+  
+  ![Main](https://files.catbox.moe/e6tc4c.png)
 
 
 ## Recommended Mods
