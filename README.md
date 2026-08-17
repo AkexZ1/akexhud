@@ -63,7 +63,6 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
   [Paper Mario Crits](https://drive.google.com/file/d/14JCULTlA0ANvjRzbESd7e5aNIVucFZ3d/view?usp=sharing) (Someone made this in gamebanana already, but I added more things to it, like mini crit and updated the crit particle)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
-
    ![Main](https://files.catbox.moe/e6tc4c.png)
 
 
@@ -75,7 +74,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
 [Vaporwave Ordinary Days](https://gamebanana.com/sounds/47984)
 
-[Sewerslvt songs](https://gamebanana.com/sounds/73930) or add "snd_restart" on your autoexec (if you really feel like the included music doesn't fit)
+[Sewerslvt songs](https://gamebanana.com/sounds/73930)
 
 [Persona 5 UI sounds](https://gamebanana.com/sounds/71875)
 
