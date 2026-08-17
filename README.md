@@ -34,16 +34,6 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
 > I dunno what else to add
 
-  ![Main4](Screenshots/Screenshot4.jpg)
-
-  ![Main2](Screenshots/Screenshot2.jpg)
-
-  ![Main3](Screenshots/Screenshot5.jpg)
-
-  ![Main3](Screenshots/Screenshot6.jpg)
-
-  ![Main3](Screenshots/Screenshot3.jpg)
-
 ## Stuff about the HUD
 
 This HUD was made for 16:9, in 4:3 some stuff might break: I haven't checked resolutions above 1080p so it might break, I dunno
@@ -53,6 +43,18 @@ Some stuff are still placeholder since making a HUD takes time, but eh, is not l
 There was a very old maidcore HUD that I saw on gamebanana time ago, the HUD had a lot of problems, but I like it the idea, so yeah, the fonts were taken from there
 
 Scout can be really annoying to play sometimes depending on your lodaout, since bars are centered, you might see a lot of them, so keep that in mind
+
+## HUD Screenshots
+
+  ![Main4](Screenshots/Screenshot4.jpg)
+
+  ![Main2](Screenshots/Screenshot2.jpg)
+
+  ![Main3](Screenshots/Screenshot5.jpg)
+
+  ![Main3](Screenshots/Screenshot6.jpg)
+
+  ![Main3](Screenshots/Screenshot3.jpg)
 
 ## ADDONS
 
@@ -75,7 +77,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
 [Vaporwave Ordinary Days](https://gamebanana.com/sounds/47984)
 
-[Sewerslvt songs](https://gamebanana.com/sounds/73930)
+[Sewerslvt songs](https://gamebanana.com/sounds/73930) or [Library of Ruina Lobby](https://gamebanana.com/sounds/79180) (Both are for the main menu music)
 
 [Persona 5 UI sounds](https://gamebanana.com/sounds/71875)
 
