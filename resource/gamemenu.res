@@ -2,14 +2,14 @@
 {
 	"CharacterSetupButton"
 	{
-		"label" "#MMenu_CharacterSetup"
+		"label" "Setup"
 		"command" "engine open_charinfo"
 		"subimage" "replay/thumbnails/glyphs/glyph_items"
 	}
 	
 	"GeneralStoreButton"
 	{
-		"label" "#MMenu_Shop"
+		"label" "Mann Co. Store"
 		"command" "engine open_store"
 		"subimage" "replay/thumbnails/glyphs/glyph_store"
 	}	
@@ -60,7 +60,7 @@
 	}
 	"TF2SettingsButton"
 	{
-		"label"			"#MMenu_AdvOptions"
+		"label"			"Advanced Settings"
 		"command"		"opentf2options"
 		"subimage"		"glyph_options"
 	}
