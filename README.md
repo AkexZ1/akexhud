@@ -75,7 +75,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
 [Vaporwave Ordinary Days](https://gamebanana.com/sounds/47984)
 
-[Sewerslvt songs](https://gamebanana.com/sounds/73930)
+[Sewerslvt songs](https://gamebanana.com/sounds/73930) or [Library of Ruina Lobby](https://gamebanana.com/sounds/79180) (Both are for the main menu music)
 
 [Persona 5 UI sounds](https://gamebanana.com/sounds/71875)
 
