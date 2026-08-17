@@ -67,6 +67,8 @@ Yes! this HUD has a few ADDONS that I made for it
 Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   [Paper Mario Crits](https://drive.google.com/file/d/14JCULTlA0ANvjRzbESd7e5aNIVucFZ3d/view?usp=sharing) (Someone made this in gamebanana already, but I added more things to it, like mini crit and updated the crit particle)
+
+  [Heart Crosshair](https://drive.google.com/file/d/1ZC2Oq_H5GvU6PT1YQbjAXm4cOeWYn2MZ/view?usp=sharing) (remember to set the crosshair to none in multiplayer for custom crosshairs!)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
   
