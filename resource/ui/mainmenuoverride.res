@@ -232,11 +232,11 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankModelPanel"
-		"xpos"			"c-330"
-		"ypos"			"r90"
+		"xpos"			"c-345"
+		"ypos"			"41"
 		"zpos"			"12"
-		"wide"			"120"
-		"tall"			"120"
+		"wide"			"80"
+		"tall"			"80"
 		"visible"		"0"
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"1"
@@ -248,8 +248,8 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"CycleRankTypeButton"
-		"xpos"			"c-228"
-		"ypos"			"r44"
+		"xpos"			"c-240"
+		"ypos"			"63"
 		"wide"			"10"
 		"tall"			"10"
 		"zpos"			"30"
@@ -304,8 +304,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"RankTooltipPanel"
-		"xpos"			"c-308"
-		"ypos"			"r20"
+		"xpos"			"c-315"
+		"ypos"			"63"
 		"zpos"			"30"
 		"wide"			"8"
 		"tall"			"8"
@@ -321,10 +321,10 @@
 	{
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
-		"xpos"			"c-265"
-		"ypos"			"r48"
+		"xpos"			"c-320"
+		"ypos"			"63"
 		"zpos"			"11"
-		"wide"			"260"
+		"wide"			"160"
 		"tall"			"35"
 		"visible"		"0"
 		"proportionaltoparent"	"1"
@@ -340,10 +340,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"RankBorder"
-		"xpos"			"c-310"
-		"ypos"			"r48"
+		"xpos"			"c-320"
+		"ypos"			"63"
 		"zpos"			"11"
-		"wide"			"305"
+		"wide"			"160"
 		"tall"			"38"
 		"visible"		"1"
 		"enabled"		"1"
@@ -403,8 +403,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"G_MenuPanel"
-		"xpos"			"c-310"
-		"ypos"			"80"
+		"xpos"			"c-320"
+		"ypos"			"100"
 		"wide"			"160"
 		"tall"			"125"
 		"zpos"			"5"
@@ -1621,7 +1621,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"G_Wall"
-		"xpos"			"c-310"
+		"xpos"			"c-320"
 		"ypos"			"0"
 		"zpos"			"-55"
 		"wide"			"160"
@@ -1651,7 +1651,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"G_FriendsPanel"
 		"xpos"			"0"
-		"ypos"			"10"
+		"ypos"			"0"
 		"wide"			"160"
 		"tall"			"195" // FLPH (195, 155, 130, 105)
 		"zpos"			"5"
@@ -2368,29 +2368,33 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FooterButtonsPanel"
-		"xpos"			"c5"
-		"ypos"			"r48"
-		"zpos"			"11"
-		"wide"			"305"
-		"tall"			"38"
+		"xpos" "30"
+    		"ypos" "-5"
+    		"zpos" "11"
+    		"wide" "30"
+    		"tall" "305"
 		"visible"		"1"
 		"enabled"		"1"
 		"proportionaltoparent"	"1"
 		"paintbackground"	"1"
 		"bgcolor_override"	"G_Footer"
+
+	    	"pin_to_sibling" "G_MenuPanel"
+    		"pin_corner_to_sibling" "0"
+    		"pin_to_sibling_corner" "0"
 	}
 	
 	"NewUserForumsButton"
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"NewUserForumsButton"
-		"xpos"			"-9"
-		"ypos"			"-7"
+		"xpos"			"-4.5"
+		"ypos"			"-6"
 		"zpos"			"60"
 		"wide"			"24"
 		"tall"			"24"
 		"autoResize"	"0"
-		"pinCorner"		"3"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
@@ -2465,7 +2469,7 @@
 		
 		"pin_to_sibling"			"NewUserForumsButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2522,7 +2526,7 @@
 		
 		"pin_to_sibling"			"AchievementsButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2577,7 +2581,7 @@
 		
 		"pin_to_sibling"			"CommentaryButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2632,7 +2636,7 @@
 		
 		"pin_to_sibling"			"CoachPlayersButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2688,7 +2692,7 @@
 		
 		"pin_to_sibling"			"ReplayButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2743,7 +2747,7 @@
 		
 		"pin_to_sibling"			"WorkshopButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2791,7 +2795,7 @@
 		
 		"pin_to_sibling"			"ReportBugButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 		
 		"SubButton"
 		{
@@ -2855,7 +2859,7 @@
 		
 		"pin_to_sibling"			"ConsoleButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 		
 		"SubButton"
 		{
@@ -2919,7 +2923,7 @@
 		
 		"pin_to_sibling"			"HUDDefaultModeButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 		
 		"SubButton"
 		{
@@ -2983,7 +2987,7 @@
 		
 		"pin_to_sibling"			"HUDCenteredModeButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 		
 		"SubButton"
 		{
@@ -3047,7 +3051,7 @@
 		
 		"pin_to_sibling"			"ReloadHUDButton"
 		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"1"
+		"pin_to_sibling_corner"		"2"
 		
 		"SubButton"
 		{
