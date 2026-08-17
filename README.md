@@ -56,6 +56,10 @@ Scout can be really annoying to play sometimes depending on your lodaout, since 
 
   ![Main3](Screenshots/Screenshot3.jpg)
 
+  ![Main3](Screenshots/Screenshot8.jpg)
+
+  ![Main3](Screenshots/Screenshot7.jpg)
+
 ## ADDONS
 
 Yes! this HUD has a few ADDONS that I made for it
