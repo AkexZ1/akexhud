@@ -38,6 +38,10 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
   ![Main2](Screenshots/Screenshot2.jpg)
 
+  ![Main3](Screenshots/Screenshot5.jpg)
+
+  ![Main3](Screenshots/Screenshot6.jpg)
+
   ![Main3](Screenshots/Screenshot3.jpg)
 
 ## Stuff about the HUD
