@@ -38,6 +38,10 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
   ![Main2](Screenshots/Screenshot2.jpg)
 
+  ![Main3](Screenshots/Screenshot5.jpg)
+
+  ![Main3](Screenshots/Screenshot6.jpg)
+
   ![Main3](Screenshots/Screenshot3.jpg)
 
 ## Stuff about the HUD
@@ -64,6 +68,10 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
 
 ## Recommended Mods
+
+[Dark Light Class Portraits](https://gamebanana.com/mods/648709)
+
+[Class Icons Fixed](https://gamebanana.com/mods/641043)
 
 [Vaporwave Ordinary Days](https://gamebanana.com/sounds/47984)
 
