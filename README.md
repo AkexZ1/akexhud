@@ -34,16 +34,6 @@ This hud needs 2 Fonts to be installed on your system to properly work
 
 > I dunno what else to add
 
-  ![Main4](Screenshots/Screenshot4.jpg)
-
-  ![Main2](Screenshots/Screenshot2.jpg)
-
-  ![Main3](Screenshots/Screenshot5.jpg)
-
-  ![Main3](Screenshots/Screenshot6.jpg)
-
-  ![Main3](Screenshots/Screenshot3.jpg)
-
 ## Stuff about the HUD
 
 This HUD was made for 16:9, in 4:3 some stuff might break: I haven't checked resolutions above 1080p so it might break, I dunno
@@ -53,6 +43,18 @@ Some stuff are still placeholder since making a HUD takes time, but eh, is not l
 There was a very old maidcore HUD that I saw on gamebanana time ago, the HUD had a lot of problems, but I like it the idea, so yeah, the fonts were taken from there
 
 Scout can be really annoying to play sometimes depending on your lodaout, since bars are centered, you might see a lot of them, so keep that in mind
+
+## HUD Screenshots
+
+  ![Main4](Screenshots/Screenshot4.jpg)
+
+  ![Main2](Screenshots/Screenshot2.jpg)
+
+  ![Main3](Screenshots/Screenshot5.jpg)
+
+  ![Main3](Screenshots/Screenshot6.jpg)
+
+  ![Main3](Screenshots/Screenshot3.jpg)
 
 ## ADDONS
 
