@@ -1,4 +1,4 @@
-## IMPORTANT TO READ!!
+# IMPORTANT TO READ!!
 
 This hud needs 2 Fonts to be installed on your system to properly work
 
@@ -6,7 +6,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
   
   [MingLiU-ExtB (Whole UI)](https://files.catbox.moe/is6y9d.ttf)
 
-# DO NOT USE MINIMAL HUD, IT BREAKS MOST CUSTOM THINGS
+## Do not use minimal HUD, it breaks most custom things!
 
 # AKEX HUD
 
