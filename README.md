@@ -6,7 +6,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
   
   [MingLiU-ExtB (Whole UI)](https://files.catbox.moe/is6y9d.ttf)
 
-## DO NOT USE MINIMAL HUD, IT BREAKS MOST CUSTOM THINGS
+# DO NOT USE MINIMAL HUD, IT BREAKS MOST CUSTOM THINGS
 
 # AKEX HUD
 
@@ -19,8 +19,6 @@ This hud needs 2 Fonts to be installed on your system to properly work
   ![Main](Screenshots/Screenshot.jpg)
 
 ## HUD
-
-> It comes with a custom menu music (yes, just one song placed a lot of times, but you can remove it)
 
 > Custom background for different menus
 
