@@ -99,7 +99,13 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   ![Setup](Screenshots/Setup_Menu.jpg)
 
+  ![Loadout](Screenshots/Loadout.jpg)
+
   ![Backpack](Screenshots/Backpack.jpg)
+
+  ![Craft](Screenshots/Crafting.jpg)
+
+  ![Catalog](Screenshots/Catalog.jpg)
 
   ![Joining](Screenshots/Joining_Match.jpg)
 
