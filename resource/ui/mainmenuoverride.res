@@ -795,7 +795,7 @@
 		"navUp"			"MOTD_ShowButtonPanel"
 		"navDown"		"Notifications_Panel"
 		"navLeft"		"CharacterSetupButton"
-		"navRight"		"WatchStreamButton"
+		"navRight"		"ServerButton"
 		"navToRelay"	"Notifications_ShowButtonPanel_SB"
 		
 		"SubImage"
@@ -886,10 +886,10 @@
 		}
 	}
 	
-	"WatchStreamButton"
+	"ServerButton"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"WatchStreamButton"
+		"fieldName"		"ServerButton"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
@@ -927,7 +927,7 @@
 			"labelText"		""
 			"use_proportional_insets" "1"
 			"font"			"HudFontSmallBold"
-			"command"		"watch_stream"
+			"command"		"OpenServerBrowser"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -958,7 +958,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"replay/thumbnails/mainmenu/button_streaming"
+				"image"			"replay/thumbnails/mainmenu/button_server"
 
 				"proportionaltoparent"	"1"
 				"mouseinputenabled"	"0"
@@ -982,7 +982,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		
-		"pin_to_sibling"			"WatchStreamButton"
+		"pin_to_sibling"			"ServerButton"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"1"
 		
@@ -1061,7 +1061,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		
-		"pin_to_sibling"			"WatchStreamButton"
+		"pin_to_sibling"			"ServerButton"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"1"
 
