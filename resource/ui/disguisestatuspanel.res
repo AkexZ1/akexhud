@@ -33,7 +33,7 @@
 		"xpos"			"0"
 		"ypos"			"27" // 1 CTID
 		"zpos"			"0" // 2 CTID
-		"wide"			"180"
+		"wide"			"145"
 		"tall"	 		"28"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -59,14 +59,14 @@
 		"xpos"					"0"
 		"ypos"					"0"
 		"zpos"					"-1"
-		"wide"					"180"
+		"wide"					"145"
 		"tall"	 				"28"
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1" // 3 CTID
 		"enabled"				"1"
 		"paintbackground"		"1"
-		"bgcolor_override"		"G_CustomTargetID"
+		"bgcolor_override"		"0 0 0 240"
 	}
 
 	"DisguiseNameLabel"

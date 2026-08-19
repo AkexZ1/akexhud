@@ -23,7 +23,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"0"
-		"ypos"	"0"
+		"ypos"	"00"
 		"wide"	"f0"
 		"tall"	"480"
 		"zpos"	"0"
@@ -36,13 +36,13 @@
 			"enabled" "1"
 			"visible_minmode" "1"
 			"enabled_minmode" "1"
-			"xpos" "192"
-			"ypos" "c146"
+			"xpos" "190"
+			"ypos" "c82"
 			"zpos" "0"
-			"wide" "128"
-			"tall" "128"
+			"wide" "64"
+			"tall" "64"
 			"image" "replay/thumbnails/maid"
-			"scaleimage" "0"
+			"scaleimage" "1"
 		}
 	}
 	
@@ -256,13 +256,10 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"c-280"
-		"xpos_minmode"	"c-260"
-		"ypos"		"r32"
-		"ypos_minmode"	"r132"
+		"xpos"		"c-427"
+		"ypos"		"r28"
 		"wide"		"500"
 		"tall"		"28"
-		"zpos_minmode"	"10"
 	}
 
 	CMainTargetID
