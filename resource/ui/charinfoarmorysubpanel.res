@@ -6,16 +6,17 @@
 		"fieldName"		"armory_panel"
 		"wide"			"f0"
 		"zpos"			"501"
+		"tall"			"480"
 		"visible"		"1"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"G_MenuBg"
-		"infocus_bgcolor_override" "G_MenuBg"
-		"outoffocus_bgcolor_override" "G_MenuBg"
+		"PaintBackgroundType"	"0"
+		"bgcolor_override" "G_TransparentMenuBG"
+		"infocus_bgcolor_override" "G_TransparentMenuBG"
+		"outoffocus_bgcolor_override" "G_TransparentMenuBG"
 		
 		"thumbnail_bgcolor"				"G_OpaquePanelBg"
 		"thumbnail_bgcolor_mouseover"	"G_OpaquePanelBg"
@@ -29,6 +30,22 @@
 		"thumbnails_delta_x"	"8"
 		"thumbnails_delta_y"	"8"
 		
+		"BackpackBackground"
+		{
+		    "ControlName" "ImagePanel"
+		    "fieldName" "BackpackBackground"
+		    "xpos" "0"
+		    "ypos" "0"
+		    "zpos" "-10"
+		    "wide" "f0"
+		    "tall" "480"
+		    "visible" "1"
+		    "enabled" "1"
+		    "image" "../hud/backpack_background"
+		    "scaleImage" "1"
+ 		    "mouseinputenabled" "0"
+		}
+
 		"thumbnail_modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -37,7 +54,7 @@
 			"tall"			"49"
 			"visible"		"0"
 			"noitem_textcolor"		"117 107 94 255"
-			"PaintBackgroundType"	"2"
+			"PaintBackgroundType"	"0"
 			"bgcolor_override"		"0 0 0 0"
 			
 			"model_xpos"	"7"
@@ -58,6 +75,8 @@
 			}
 		}
 	}
+
+
 
 	"CaratLabel"
 	{

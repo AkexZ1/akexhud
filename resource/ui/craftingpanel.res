@@ -7,7 +7,7 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"
-		"tall"			"400"
+		"tall"			"480"
 		"zpos"			"501"
 		"visible"		"1"
 		"autoResize"	"0"
@@ -16,9 +16,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"G_MenuBg"
-		"infocus_bgcolor_override" "G_MenuBg"
-		"outoffocus_bgcolor_override" "G_MenuBg"
+		"bgcolor_override" "G_TransparentMenuBG"
+		"infocus_bgcolor_override" "G_TransparentMenuBG"
+		"outoffocus_bgcolor_override" "G_TransparentMenuBG"
 
 		"item_ypos"						"85"
 		"output_item_ypos"				"255"		
@@ -31,6 +31,23 @@
 		"button_ydelta"					"80"
 		"button_override_delete_xpos"	"0"
 		
+
+		"BackpackBackground"
+		{
+		    "ControlName" "ImagePanel"
+		    "fieldName" "BackpackBackground"
+		    "xpos" "0"
+		    "ypos" "0"
+		    "zpos" "-10"
+		    "wide" "f0"
+		    "tall" "480"
+		    "visible" "1"
+		    "enabled" "1"
+		    "image" "../hud/backpack_background"
+		    "scaleImage" "1"
+ 		    "mouseinputenabled" "0"
+		}
+
 		"modelpanels_kv"
 		{
 			"ControlName"	"CItemModelPanel"
@@ -39,7 +56,7 @@
 			"visible"		"0"
 			"bgcolor_override"		"G_BackpackItemBg"
 			"noitem_textcolor"		"117 107 94 255"
-			"PaintBackgroundType"	"2"
+			"PaintBackgroundType"	"0"
 			"paintborder"	"1"
 			
 			"model_xpos"	"2"
