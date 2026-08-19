@@ -71,14 +71,7 @@
 		"subimage"	"replay/thumbnails/glyphs/glyph_console"
 		"tooltip"	"Console"
 	}
-	"HUDDefaultModeButton"
-	{
-		"label"		""
-		"command"	" "
-		"subimage"	"replay/thumbnails/glyphs/glyph_hudmode_default"
-		"tooltip"	"Placeholder button"
-	}
-	"HUDCenteredModeButton"
+	"Github"
 	{
 		"label"		""
 		"command"	"url https://github.com/AkexZ1/akexhud"
@@ -92,7 +85,7 @@
 		"subimage"	"replay/thumbnails/glyphs/glyph_reload"
 		"tooltip"	"Reload HUD"
 	}
-	"ToonHUDButton"
+	"AkexHUDVersion"
 	{
 		"label"		""
 		"command"	" "

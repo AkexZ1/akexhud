@@ -2774,8 +2774,6 @@
 			"scaleImage"	"1"
 		}				
 	}
-	
-// ToonHUD Buttons
 
 	"ConsoleButton"
 	{
@@ -2841,88 +2839,23 @@
 		}		
 	}
 	
-	"HUDDefaultModeButton"
+	"Github"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"HUDDefaultModeButton"
+		"fieldName"		"Github"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"61"
-		"wide"			"24"
-		"tall"			"24"
-		"enaable"		"0"
-		"visible"		"0"
-
-		"navUp"			"SteamWorkshopButton"
-		"navLeft"		"ConsoleButton"
-		"navRight"		"HUDCenteredModeButton"
-		"navToRelay"	"SubButton"
-		
-		"pin_to_sibling"			"ConsoleButton"
-		"pin_corner_to_sibling"		"0"
-		"pin_to_sibling_corner"		"2"
-		
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"24"
-			"tall"			"24"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"0"
-			"enabled"		"0"
-			"tabPosition"	"0"
-			"use_proportional_insets" "1"
-			"font"			"HudFontSmallBold"
-			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"223 221 220 255" // Footer text color
-			"image_armedcolor"	"223 221 220 255" // Footer text color
-			
-			"defaultBgColor_override" 	"0 0 0 0"
-			"armedBgColor_override" 	"0 0 0 0"
-			"depressedBgColor_override" "0 0 0 0"
-			
-			"SubImage"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"3"
-				"ypos"			"3"
-				"zpos"			"1"
-				"wide"			"18"
-				"tall"			"18"
-				"visible"		"0"
-				"enabled"		"0"
-				"scaleImage"	"1"
-			}				
-		}		
-	}
-	
-	"HUDCenteredModeButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"HUDCenteredModeButton"
-		"xpos"			"0"
-		"ypos"			"-24"
 		"zpos"			"62"
 		"wide"			"24"
 		"tall"			"24"
 		"visible"		"1"
 
 		"navUp"			"SteamWorkshopButton"
-		"navLeft"		"HUDDefaultModeButton"
+		"navLeft"		"ConsoleButton"
 		"navRight"		"ReloadHUDButton"
 		"navToRelay"	"SubButton"
 		
-		"pin_to_sibling"			"HUDDefaultModeButton"
+		"pin_to_sibling"			"ConsoleButton"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"2"
 		
@@ -3034,10 +2967,10 @@
 		}		
 	}
 	
-	"ToonHUDButton"
+	"AkexHUDVersion"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"ToonHUDButton"
+		"fieldName"		"AkexHUDVersion"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"60"
@@ -3097,9 +3030,6 @@
 			}				
 		}		
 	}
-
-	
-// # ----------
 
 
 	"VRBGPanel"
