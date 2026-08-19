@@ -1,4 +1,6 @@
-  ![Yay](https://files.catbox.moe/n55dvc.png)
+<p align="center">
+  <img src="https://files.catbox.moe/n55dvc.png">
+</p>
 
 # IMPORTANT TO READ!!
 
@@ -18,7 +20,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
  
  (Is still in BETA)
 
-  ![Main](Screenshots/Screenshot.jpg)
+  ![Main](Screenshots/Main_Menu.jpg)
 
 ## HUD
 
@@ -44,22 +46,6 @@ There was a very old maidcore HUD that I saw on gamebanana time ago, the HUD had
 
 Scout can be really annoying to play sometimes depending on your lodaout, since bars are centered, you might see a lot of them, so keep that in mind
 
-## HUD Screenshots
-
-  ![Main1](Screenshots/Screenshot4.jpg)
-
-  ![Main2](Screenshots/Screenshot2.jpg)
-
-  ![Main3](Screenshots/Screenshot5.jpg)
-
-  ![Main4](Screenshots/Screenshot6.jpg)
-
-  ![Main5](Screenshots/Screenshot3.jpg)
-
-  ![Main6](Screenshots/Screenshot8.jpg)
-
-  ![Main7](Screenshots/Screenshot9.jpg)
-
 ## ADDONS
 
 Yes! this HUD has a few ADDONS that I made for it
@@ -72,7 +58,9 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
   
-  ![Icon](https://files.catbox.moe/e6tc4c.png)
+<p align="center">
+  <img src="https://files.catbox.moe/e6tc4c.png">
+</p>
 
 
 ## Recommended Mods
@@ -101,4 +89,29 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   The chibi Chikoi health icon was made by [Hinemosu Notari](https://danbooru.donmai.us/posts/394495?q=chikoi_%28nijiura_maids%29+)
 
-   ![Art](https://files.catbox.moe/3le546.jpg)
+<p align="center">
+  <img src="https://files.catbox.moe/lr1mvl.png">
+</p>
+
+   ## HUD Screenshots
+
+  ![Match](Screenshots/Match_Making.jpg)
+
+  ![Setup](Screenshots/Setup_Menu.jpg)
+
+  ![Backpack](Screenshots/Backpack.jpg)
+
+  ![Joining](Screenshots/Joining_Match.jpg)
+
+  ![Spectator](Screenshots/Spectator.jpg)
+
+  ![Team](Screenshots/Team_Selection.jpg)
+
+  ![Class](Screenshots/Class_Select.jpg)
+
+  ![UI](Screenshots/UI.jpg)
+
+  ![UI2](Screenshots/UI_2.jpg)
+
+  ![Pause](Screenshots/Pause.jpg)
+
