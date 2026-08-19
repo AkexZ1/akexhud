@@ -18,7 +18,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
  
  (Is still in BETA)
 
-  ![Main](Screenshots/Screenshot.jpg)
+  ![Main](Screenshots/Main_Menu.jpg)
 
 ## HUD
 
@@ -46,19 +46,25 @@ Scout can be really annoying to play sometimes depending on your lodaout, since 
 
 ## HUD Screenshots
 
-  ![Main1](Screenshots/Screenshot4.jpg)
+  ![Match](Screenshots/Match_Making.jpg)
 
-  ![Main2](Screenshots/Screenshot2.jpg)
+  ![Setup](Screenshots/Setup_Menu.jpg)
 
-  ![Main3](Screenshots/Screenshot5.jpg)
+  ![Backpack](Screenshots/Backpack.jpg)
 
-  ![Main4](Screenshots/Screenshot6.jpg)
+  ![Joining](Screenshots/Joining_Match.jpg)
 
-  ![Main5](Screenshots/Screenshot3.jpg)
+  ![Spectator](Screenshots/Spectator.jpg)
 
-  ![Main6](Screenshots/Screenshot8.jpg)
+  ![Team](Screenshots/Team_Selection.jpg)
 
-  ![Main7](Screenshots/Screenshot9.jpg)
+  ![Class](Screenshots/Class_Select.jpg)
+
+  ![UI](Screenshots/UI.jpg)
+
+  ![UI2](Screenshots/UI_2.jpg)
+
+  ![Pause](Screenshots/Pause.jpg)
 
 ## ADDONS
 
