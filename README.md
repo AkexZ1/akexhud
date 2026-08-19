@@ -1,3 +1,5 @@
+  ![Yay](https://files.catbox.moe/n55dvc.png)
+
 # IMPORTANT TO READ!!
 
 This hud needs 2 Fonts to be installed on your system to properly work
@@ -44,19 +46,19 @@ Scout can be really annoying to play sometimes depending on your lodaout, since 
 
 ## HUD Screenshots
 
-  ![Main4](Screenshots/Screenshot4.jpg)
+  ![Main1](Screenshots/Screenshot4.jpg)
 
   ![Main2](Screenshots/Screenshot2.jpg)
 
   ![Main3](Screenshots/Screenshot5.jpg)
 
-  ![Main3](Screenshots/Screenshot6.jpg)
+  ![Main4](Screenshots/Screenshot6.jpg)
 
-  ![Main3](Screenshots/Screenshot3.jpg)
+  ![Main5](Screenshots/Screenshot3.jpg)
 
-  ![Main3](Screenshots/Screenshot8.jpg)
+  ![Main6](Screenshots/Screenshot8.jpg)
 
-  ![Main3](Screenshots/Screenshot9.jpg)
+  ![Main7](Screenshots/Screenshot9.jpg)
 
 ## ADDONS
 
@@ -70,7 +72,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
   
-  ![Main](https://files.catbox.moe/e6tc4c.png)
+  ![Icon](https://files.catbox.moe/e6tc4c.png)
 
 
 ## Recommended Mods
@@ -99,4 +101,4 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   The chibi Chikoi health icon was made by [Hinemosu Notari](https://danbooru.donmai.us/posts/394495?q=chikoi_%28nijiura_maids%29+)
 
-   ![Main](https://files.catbox.moe/3le546.jpg)
+   ![Art](https://files.catbox.moe/3le546.jpg)
