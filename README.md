@@ -119,5 +119,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   ![UI2](Screenshots/UI_2.jpg)
 
+  ![UI3](Screenshots/UI_3.jpg)
+
   ![Pause](Screenshots/Pause.jpg)
 
