@@ -2919,7 +2919,7 @@
 		"navRight"		"ToonHUDButton"
 		"navToRelay"	"SubButton"
 		
-		"pin_to_sibling"			"HUDCenteredModeButton"
+		"pin_to_sibling"			"Github"
 		"pin_corner_to_sibling"		"0"
 		"pin_to_sibling_corner"		"2"
 		
