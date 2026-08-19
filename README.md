@@ -1,4 +1,6 @@
-  ![Yay](https://files.catbox.moe/n55dvc.png)
+<p align="center">
+  <img src="https://files.catbox.moe/n55dvc.png">
+</p>
 
 # IMPORTANT TO READ!!
 
@@ -56,7 +58,9 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
   
   [Yakui Medic Callout](https://drive.google.com/file/d/1M-qv2SLwZjygDf2bdLrgBXM_VmgxRPPs/view?usp=sharing)
   
-  ![Icon](https://files.catbox.moe/e6tc4c.png)
+<p align="center">
+  <img src="https://files.catbox.moe/e6tc4c.png">
+</p>
 
 
 ## Recommended Mods
@@ -85,7 +89,9 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   The chibi Chikoi health icon was made by [Hinemosu Notari](https://danbooru.donmai.us/posts/394495?q=chikoi_%28nijiura_maids%29+)
 
-   ![Art](https://files.catbox.moe/lr1mvl.png)
+<p align="center">
+  <img src="https://files.catbox.moe/lr1mvl.png">
+</p>
 
    ## HUD Screenshots
 
