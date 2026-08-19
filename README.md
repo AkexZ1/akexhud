@@ -85,7 +85,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   The chibi Chikoi health icon was made by [Hinemosu Notari](https://danbooru.donmai.us/posts/394495?q=chikoi_%28nijiura_maids%29+)
 
-   ![Art](https://files.catbox.moe/76xq1r.png)
+   ![Art](https://files.catbox.moe/lr1mvl.png)
 
    ## HUD Screenshots
 
