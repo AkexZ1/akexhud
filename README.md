@@ -44,28 +44,6 @@ There was a very old maidcore HUD that I saw on gamebanana time ago, the HUD had
 
 Scout can be really annoying to play sometimes depending on your lodaout, since bars are centered, you might see a lot of them, so keep that in mind
 
-## HUD Screenshots
-
-  ![Match](Screenshots/Match_Making.jpg)
-
-  ![Setup](Screenshots/Setup_Menu.jpg)
-
-  ![Backpack](Screenshots/Backpack.jpg)
-
-  ![Joining](Screenshots/Joining_Match.jpg)
-
-  ![Spectator](Screenshots/Spectator.jpg)
-
-  ![Team](Screenshots/Team_Selection.jpg)
-
-  ![Class](Screenshots/Class_Select.jpg)
-
-  ![UI](Screenshots/UI.jpg)
-
-  ![UI2](Screenshots/UI_2.jpg)
-
-  ![Pause](Screenshots/Pause.jpg)
-
 ## ADDONS
 
 Yes! this HUD has a few ADDONS that I made for it
@@ -107,4 +85,27 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   The chibi Chikoi health icon was made by [Hinemosu Notari](https://danbooru.donmai.us/posts/394495?q=chikoi_%28nijiura_maids%29+)
 
-   ![Art](https://files.catbox.moe/3le546.jpg)
+   ![Art](https://files.catbox.moe/76xq1r.png)
+
+   ## HUD Screenshots
+
+  ![Match](Screenshots/Match_Making.jpg)
+
+  ![Setup](Screenshots/Setup_Menu.jpg)
+
+  ![Backpack](Screenshots/Backpack.jpg)
+
+  ![Joining](Screenshots/Joining_Match.jpg)
+
+  ![Spectator](Screenshots/Spectator.jpg)
+
+  ![Team](Screenshots/Team_Selection.jpg)
+
+  ![Class](Screenshots/Class_Select.jpg)
+
+  ![UI](Screenshots/UI.jpg)
+
+  ![UI2](Screenshots/UI_2.jpg)
+
+  ![Pause](Screenshots/Pause.jpg)
+
