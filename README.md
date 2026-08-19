@@ -4,7 +4,7 @@
 
 # IMPORTANT TO READ!!
 
-This hud needs 2 Fonts to be installed on your system to properly work (on windows)
+This hud needs 2 Fonts to be installed on your system to properly work
 
   [Gamefont (Damage Numbers)](https://files.catbox.moe/cxknym.ttf)
   
