@@ -11,8 +11,28 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 	}
+
+	"SpectatorBackground"
+	{
+	    "ControlName"        "Panel"
+	    "fieldName"          "SpectatorBackground"
+	    "xpos"               "0"
+	    "ypos"               "0"
+	    "wide"               "f0"
+	    "tall"               "f0"
+	    "zpos"               "-100"
+	    "autoResize"         "0"
+	    "pinCorner"          "0"
+	    "visible"            "1"
+	    "enabled"            "1"
+	    "paintbackground"    "1"
+	    "bgcolor_override"   "0 0 0 200"
+	}
+
 	"specgui"
 	{
+	    "paintbackground" "0"
+	    "bgcolor_override" "0 0 0 0"
 	}
 	"topbar"
 	{
