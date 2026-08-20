@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-    "$basetexture" "hud/class_background"
+    "$basetexture" "vgui/replay/thumbnails/backgrounds/backpack_background"
     "$translucent" "1"
     "$vertexcolor" "1"
     "$vertexalpha" "1"

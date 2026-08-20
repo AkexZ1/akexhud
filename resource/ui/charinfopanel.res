@@ -106,7 +106,7 @@
 		    "tall" "480"
 		    "visible" "1"
 		    "enabled" "1"
-		    "image" "../hud/loadout_background"
+		    "image" "replay/thumbnails/backgrounds/loadout_background"
 		    "scaleImage" "1"
  		    "mouseinputenabled" "0"
 		}

@@ -633,7 +633,7 @@
 		    "tall" "480"
 		    "visible" "1"
 		    "enabled" "1"
-		    "image" "../hud/class_background"
+		    "image" "replay/thumbnails/backgrounds/class_background"
 		    "scaleImage" "1"
  		    "mouseinputenabled" "0"
 		}
@@ -660,7 +660,7 @@
 		    "tall" "480"
 		    "visible" "1"
 		    "enabled" "1"
-		    "image" "../hud/backpack_background"
+		    "image" "replay/thumbnails/backgrounds/backpack_background"
 		    "scaleImage" "1"
  		    "mouseinputenabled" "0"
 		}
