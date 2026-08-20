@@ -1047,18 +1047,13 @@
 		"fieldName" 	"HudMenuSpyDisguise"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-214"
-		"ypos"			"c28"
+		"xpos"			"c-233"
+		"ypos"			"c-102"
 		"zpos"			"500"
 		"wide"			"470"
-		"tall"			"200"
-		"xpos_minmode"			"c-89"
-		"ypos_minmode"			"c-62"
-		"wide_minmode"			"470"
-		"tall_minmode"			"240"
+		"tall"			"200"	
 		"PaintBackgroundType"	"0"
-	}	
-	
+	}
 	HudDemomanPipes
 	{
 		"fieldName"		"HudDemomanPipes"
