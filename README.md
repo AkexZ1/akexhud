@@ -10,7 +10,7 @@ This hud needs 2 Fonts to be installed on your system to properly work
   
   [MingLiU-ExtB (Whole UI)](https://files.catbox.moe/is6y9d.ttf)
 
-## Do not use minimal HUD, it breaks most custom things!
+## Do not use minimal HUD, it breaks some things!
 
 # AKEX HUD
 
