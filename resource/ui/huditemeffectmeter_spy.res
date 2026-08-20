@@ -128,7 +128,7 @@
 		"enabled"				"1"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"east"
-		"font"					"G_FontMedium"
+		"font"					"G_FontSmall"
 		"fgcolor"				"G_HeadsValue"
 		"paintbackground"		"1"
 		"bgcolor_override"		"255 255 255 0"
@@ -148,7 +148,7 @@
 		"enabled"				"1"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"east"
-		"font"					"G_FontMedium"
+		"font"					"G_FontSmall"
 		"fgcolor"				"G_Shadow"
 	}
 }
