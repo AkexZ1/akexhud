@@ -8,7 +8,6 @@
 	{
 		"fieldName"			"HudItemEffectMeter"
 		"ypos"				"r20"
-		"ypos_minmode"		"c+79"
 	}
 	
 	// ----
@@ -26,8 +25,6 @@
 		"pinCorner"				"2"
 		"visible"				"0"
 		"visible_minmode"		"0"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"-10"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_KILLCOMBO"

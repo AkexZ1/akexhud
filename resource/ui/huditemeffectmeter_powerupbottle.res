@@ -7,8 +7,6 @@
 		"enabled"		"1"
 		"xpos"			"c284"
 		"ypos"			"r32"
-		"xpos_minmode"	"c264"
-		"ypos_minmode"	"r132"
 		"wide"			"42"
 		"tall"			"28"
 		"MeterFG"		"White"

@@ -94,9 +94,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"
-		"xpos_minmode"	"r52"
 		"ypos"			"r52"
-		"ypos_minmode"	"r50"
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"White"
@@ -135,8 +133,6 @@
 		"enabled"		"1"
 		"xpos"			"c-15"
 		"ypos"			"c20"
-		"xpos_minmode"	"c-15"
-		"ypos_minmode"	"c20"
 		"wide"			"30"
 		"tall"			"8"
 		"zpos"			"1"
@@ -217,9 +213,7 @@
 		"wide"					"200"
 		"tall"					"60"
 		"xpos"					"c-20" // 1 CM
-		"xpos_minmode"			"c-20" // 2 CM
 		"ypos"					"c10" // 3 CM
-		"ypos_minmode"			"c10" // 4 CM
 		"visible" 				"1"
 		"enabled" 				"1"
 		"paintbackground"		"1"
@@ -229,9 +223,7 @@
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"c-145"
-		"xpos_minmode"			"c-125"
 		"ypos"					"r144"
-		"ypos_minmode"			"c-4"
 		"wide"					"80"
 		"tall"  				"60"
 		"visible" 				"1"
@@ -271,7 +263,6 @@
 		"ypos"		"280"
 		"wide"	 	"252"
 		"tall"	 	"28"
-		"tall_minmode"	 	"28"
 		"priority"	"40"
 		"priority_lodef"	"5"
 
@@ -291,7 +282,6 @@
 		"ypos"		"370"
 		"wide"	 	"252"
 		"tall"	 	"28"
-		"tall_minmode"	 	"28"
 		"priority"	"40"
 		"priority_lodef" "35"
 		
@@ -306,7 +296,6 @@
 		"enabled" 	"1"
 		"xpos"		"c-126"
 		"ypos"			"315"
-		"ypos_minmode"	"336" // CIM
 		"wide"	 	"252"
 		"tall"	 	"28"
 		"tall_minmode"	 	"28"
@@ -1007,10 +996,6 @@
 		"ypos"			"c10"
 		"wide"			"440"
 		"tall"			"170"
-		"xpos_minmode"			"c-89"
-		"ypos_minmode"			"c-62"
-		"wide_minmode"			"470"
-		"tall_minmode"			"240"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -1035,10 +1020,6 @@
 		"ypos"			"c10"
 		"wide"			"440"
 		"tall"			"170"
-		"xpos_minmode"			"c-89"
-		"ypos_minmode"			"c-62"
-		"wide_minmode"			"470"
-		"tall_minmode"			"240"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -1211,7 +1192,6 @@
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"r220"
-		"ypos_minmode"			"40"
 		"wide"					"f0"
 		"tall"					"220"
 	}
