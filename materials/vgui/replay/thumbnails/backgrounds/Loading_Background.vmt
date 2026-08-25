@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture"	"vgui\replay\thumbnails\teamsilhouette"
+	"$basetexture"	"vgui\replay\thumbnails\backgrounds\Loading_Background"
 	"$vertexalpha" 	"1"
 	"$vertexcolor"	"1"
 	"$distancealpha"		"1"

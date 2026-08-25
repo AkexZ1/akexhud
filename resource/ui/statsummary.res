@@ -52,10 +52,10 @@
 			"scaleImage"		"1"
 		}
 
-		"TeamSilhouette"
+		"Loading_Background"
 		{
 			"ControlName"		"CTFImagePanel"
-			"fieldName"			"TeamSilhouette"
+			"fieldName"			"Loading_Background"
 			"xpos"				"0"
 			"ypos"				"0"
 			"zpos"				"198"
@@ -63,7 +63,7 @@
 			"tall"				"480"
 			"visible"			"1"
 			"enabled"			"1"
-			"image"				"replay/thumbnails/teamsilhouette"
+			"image"				"replay/thumbnails/backgrounds/Loading_Background"
 			"scaleImage"		"1"
 			"Alpha"				"255"
 		}
