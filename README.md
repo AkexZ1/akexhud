@@ -85,7 +85,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   The Backpack/Loadout background are edited versions from [Pelcman's artwork](https://pelcman.honifuwa.com/post/613474535371669504/20200324-its-time-to-take-your-happiness-back)
 
-  The loading screen, is literally just a screenshot taken from the video of the 2025 [Chikoi Album](https://www.youtube.com/watch?v=KH89fk-0qks) (A place holder still)
+  The Loading/Joining screen art was made by [Shay](https://x.com/li_shay_/status/1831679326988742869)
 
   The chibi Chikoi health icon was made by [Hinemosu Notari](https://danbooru.donmai.us/posts/394495?q=chikoi_%28nijiura_maids%29+)
 
@@ -107,7 +107,7 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   ![Catalog](Screenshots/Catalog.jpg)
 
-  ![Joining](Screenshots/Joining_Match.jpg)
+  ![Joining](Screenshots/Loading_Map.jpg)
 
   ![Spectator](Screenshots/Spectator.jpg)
 
