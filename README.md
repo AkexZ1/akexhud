@@ -117,6 +117,10 @@ Install them with this [Casual Preloader](https://gamebanana.com/tools/19049)
 
   ![Disguise](Screenshots/Disguise_Menu.jpg)
 
+  ![Build](Screenshots/Build.jpg)
+
+  ![Destroy](Screenshots/Destroy.jpg)
+
   ![UI](Screenshots/UI.jpg)
 
   ![UI2](Screenshots/UI_2.jpg)
