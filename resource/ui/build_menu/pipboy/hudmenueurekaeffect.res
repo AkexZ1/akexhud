@@ -1,8 +1,8 @@
-"Resource/UI/build_menu/pipboy/HudMenuEurekaEffect.res"
+"Resource/UI/build_menu/HudMenuEurekaEffect.res"
 {
 	"MainBackground"	
 	{
-		"ControlName"	"CTFImagePanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"MainBackground"
 		"xpos"			"18"
 		"ypos"			"40"
@@ -13,27 +13,8 @@
 		"enabled"		"1"
 		"paintborder"		"1"
 		"border"			"G_TargetBorder"
-		"scaleImage"			"1"
-		"image"					"pipboy_overlay"
-		"src_corner_height"		"23"
-		"src_corner_width"		"23"
-		"draw_corner_width"		"0"	
-		"draw_corner_height" 	"0"	
-	}
-	
-	"BlackBg"	
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"BlackBg"	
-		"xpos"			"18"
-		"ypos"			"40"
-		"zpos"			"-1"
-		"wide"			"142"
-		"tall"			"91"
-		"visible"		"1"
-		"enabled"		"1"
 		"paintbackground"	"1"
-		"bgcolor_override"	"0 0 0 220"
+		"bgcolor_override"	"G_PanelBg"
 	}
 	
 	"BuildIcon"	

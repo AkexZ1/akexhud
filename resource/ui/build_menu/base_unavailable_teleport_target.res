@@ -22,20 +22,20 @@
 		"brighttext"	"0"
 	}
 
-	"ItemBackground"	
+	"ItemBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
 		"xpos"			"10"
-		"ypos"			"14"
+		"ypos"			"79.5"
 		"zpos"			"0"
 		"wide"			"60"
-		"tall"			"76"
+		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"			
+		"scaleImage"	"1"	
 		"paintbackground"	"1"
-		"bgcolor_override"	"0 0 0 220"
+		"bgcolor_override"	"0 0 0 240"
 	}
 	
 	"BuildingIcon"	
@@ -103,8 +103,8 @@
 		"tall"			"18"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"labelText"		"1"
 		"textAlignment"	"Center"
 		"dulltext"		"1"

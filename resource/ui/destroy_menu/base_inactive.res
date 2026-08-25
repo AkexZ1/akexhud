@@ -21,23 +21,20 @@
 		"brighttext"	"0"
 	}
 	
-	"ItemBackground"	
+	"ItemBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
 		"xpos"			"10"
-		"ypos"			"14"
+		"ypos"			"79.5"
 		"zpos"			"0"
-		"wide"			"80"
-		"tall"			"80"
+		"wide"			"60"
+		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"			
+		"scaleImage"	"1"	
 		"paintbackground"	"1"
-		"paintborder"		"1"
-		"bgcolor_override"	"0 0 0 220"
-		"border"			"G_TargetBorder"
-		"Alpha"				"100"
+		"bgcolor_override"	"0 0 0 240"
 	}
 	
 	"NotBuiltLabel"

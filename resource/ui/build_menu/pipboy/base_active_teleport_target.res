@@ -26,24 +26,24 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
 		"xpos"			"10"
-		"ypos"			"14"
+		"ypos"			"79.5"
 		"zpos"			"0"
 		"wide"			"60"
-		"tall"			"76"
+		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"paintbackground"	"1"
-		"bgcolor_override"	"0 0 0 220"
-		"border"			"G_TargetBorder"
+		"bgcolor_override"	"0 0 0 240"
 	}
+	
 	
 	"BuildingIcon"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildingIcon"
 		"xpos"			"16"
-		"ypos"			"20"
+		"ypos"			"22"
 		"zpos"			"2"
 		"wide"			"48"
 		"tall"			"48"
@@ -51,7 +51,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_sentry_build"
-		"iconColor"		"30 255 30 255"
+		"iconColor"		"255 255 255 255"
 	}
 	
 	"WhiteBg"	
@@ -59,7 +59,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WhiteBg"
 		"xpos"			"13"
-		"ypos"			"17"
+		"ypos"			"19"
 		"zpos"			"1"
 		"wide"			"54"
 		"tall"			"54"
@@ -70,7 +70,6 @@
 		"bgcolor_override"	"G_White"
 		"border"			"G_TargetBorder"
 	}
-	
 	"ModeLabel"
 	{	
 		"ControlName"	"CExLabel"
@@ -99,8 +98,8 @@
 		"zpos"			"5"
 		"wide"			"14"
 		"tall"			"14"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -110,10 +109,10 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"G_FontNumberButton"
-		"fgcolor"		"Black"
-		"xpos"			"33"
-		"ypos"			"73"
+		"font"			"G_FontTiny"
+		"fgcolor"		"G_White"
+		"xpos"			"15"
+		"ypos"			"80"
 		"zpos"			"6"
 		"wide"			"14"
 		"tall"			"13"

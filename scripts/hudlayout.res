@@ -322,7 +322,6 @@
 		"enabled"	"1"
 		"xpos"		"0"
 		"ypos"		"0" // 1 TLC
-		"ypos_minmode"	"0" // 2 TLC
 		"wide"		"640"
 		"tall"		"480"
 	}
@@ -994,6 +993,7 @@
 		"enabled" 		"1"
 		"xpos"			"c-142"
 		"ypos"			"c10"
+		"zpos"			"500"
 		"wide"			"440"
 		"tall"			"170"
 		"PaintBackgroundType"	"0"
@@ -1006,6 +1006,7 @@
 		"enabled" 				"1"
 		"xpos"					"c-89"
 		"ypos"					"c10"
+		"zpos"			"500"
 		"wide"					"470"
 		"tall"					"240"
 		"PaintBackgroundType"	"0"
@@ -1018,6 +1019,7 @@
 		"enabled" 		"1"
 		"xpos"			"c-142"
 		"ypos"			"c10"
+		"zpos"			"500"
 		"wide"			"440"
 		"tall"			"170"
 		"PaintBackgroundType"	"0"

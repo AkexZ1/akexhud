@@ -22,22 +22,20 @@
 		"brighttext"	"0"
 	}
 	
-	"ItemBackground"	
+	"ItemBackground"
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
 		"xpos"			"10"
-		"ypos"			"14"
+		"ypos"			"79.5"
 		"zpos"			"0"
 		"wide"			"60"
-		"tall"			"76"
+		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"1"			
+		"scaleImage"	"1"	
 		"paintbackground"	"1"
-		"paintborder"		"0"
-		"bgcolor_override"	"0 0 0 220"
-		"border"			"G_TargetBorder"
+		"bgcolor_override"	"0 0 0 240"
 	}
 	
 	"CantBuildReason"
@@ -72,15 +70,15 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_sentry_build"
-		"iconColor"		"0 100 0 255"
+		"iconColor"		"100 100 100 255"
 	}
 	
 	"MetalIcon"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
-		"xpos"			"46"
-		"ypos"			"75"
+		"xpos"			"58"
+		"ypos"			"84"
 		"zpos"			"1"
 		"wide"			"7"
 		"tall"			"7"
@@ -97,8 +95,8 @@
 		"fieldName"		"CostLabel"
 		"font"			"G_FontTiny"
 		"fgcolor"		"G_Red"
-		"xpos"			"14"
-		"ypos"			"72"
+		"xpos"			"26"
+		"ypos"			"81"
 		"zpos"			"1"
 		"wide"			"30"
 		"tall"			"13"

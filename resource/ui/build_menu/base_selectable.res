@@ -42,17 +42,18 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
-		"xpos"			"4"
-		"ypos"			"0"
+		"xpos"			"10"
+		"ypos"			"79.5"
 		"zpos"			"0"
-		"wide"			"98"
-		"tall"			"135"
+		"wide"			"60"
+		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
-		"icon"			"hud_menu_item_bg"
-		"iconColor"		"ProgressOffWhite"
+		"paintbackground"	"1"
+		"bgcolor_override"	"0 0 0 240"
 	}
+	
 	
 	"BuildingIcon"	
 	{
