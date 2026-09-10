@@ -72,10 +72,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"PipesPresentPanel"
-		"xpos"			"c+119" // 1 CSBC
-		"xpos_minmode"	"c+119" // 2 CSBC
+		"xpos"			"c+110" // 1 CSBC
 		"ypos"			"c124"
-		"ypos_minmode"	"c124" // 1 BPM
 		"zpos"			"1"
 		"wide"			"180"
 		"tall"			"126"
@@ -159,8 +157,8 @@
 			"textAlignment"	"east" // 7 CSBC
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"G_FontMedium" // 8 CSBC
-			"fgcolor"		"G_StickyColor"
+			"font"			"G_FontSmall" // 8 CSBC
+			"fgcolor"		"G_HeadsValue"
 		}
 		
 		"NumPipesLabelDropshadow"
@@ -183,7 +181,7 @@
 			"textAlignment"	"east" // 7 CSBC
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"G_FontMedium" // 8 CSBC
+			"font"			"G_FontSmall" // 8 CSBC
 			"fgcolor"		"G_Shadow"
 		}		
 	}
