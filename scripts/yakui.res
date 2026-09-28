@@ -5,7 +5,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"	"yakui"
 		"xpos"		"r65"
-		"ypos"		"r88"
+		"ypos"		"r104"
 		"zpos"		"100"
 		"wide"		"64"
 		"tall"		"64"
