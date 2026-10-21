@@ -6,5 +6,6 @@
 	HudItemEffectMeter
 	{
 		"fieldName"			"HudItemEffectMeter"
+		"ypos"				"r220"
 	}
 }
